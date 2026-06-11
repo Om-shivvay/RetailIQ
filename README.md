@@ -162,7 +162,7 @@ python notebooks/day4_prepare_powerbi.py
 **Sri Sai Samarth Sistla**
 - 🎓 BBA Graduate
 - 📍 New Delhi, India
-- 💼 Seeking Business Analyst Internship
+- 💼 Seeking Business Analyst
 - 🔗 [LinkedIn](www.linkedin.com/in/sri-sai-samarth-sistla-532657258)
 
 ---
