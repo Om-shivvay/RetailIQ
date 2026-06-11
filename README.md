@@ -163,7 +163,7 @@ python notebooks/day4_prepare_powerbi.py
 - 🎓 BBA Graduate
 - 📍 New Delhi, India
 - 💼 Seeking Business Analyst Internship
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 🔗 [LinkedIn](www.linkedin.com/in/sri-sai-samarth-sistla-532657258)
 
 ---
 
